@@ -34,9 +34,9 @@ Model diuji dengan 3 konfigurasi epoch training:
 - Data primer diambil langsung di Taman Kupu-Kupu Gita Persada
 
 ## 📁 Struktur Folder
-dataset/              ← 400 gambar (4 kelas)
-notebooks/            ← Training & evaluasi model
-models/               ← File .h5 model terbaik
+- dataset/              ← 400 gambar (4 kelas)
+- notebooks/            ← Training & evaluasi model
+- models/               ← File .h5 model terbaik
 
 ## 🚀 Cara Menjalankan
 1. Buka notebook di Google Colab
